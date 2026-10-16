@@ -90,6 +90,7 @@
 | .NET | [a2aproject/a2a-dotnet](https://github.com/a2aproject/a2a-dotnet) | Preview ([Microsoft Foundry blog](https://devblogs.microsoft.com/foundry/building-ai-agents-a2a-dotnet-sdk/)) |
 
 ### x402 (Machine Payments over HTTP 402)
+- [Vend Browser Agent](https://extract.paypercall.dev/api/v1/browser-agent) — Pay-per-call browser automation and stealth scraping settled in Nano (XNO) via x402; no account or API key.
 
 - [x402.org](https://www.x402.org/) — Protocol homepage
 - [x402 Developer Docs](https://docs.x402.org/) — Core concepts, quickstarts, guides (docs.x402.org / Mintlify)
